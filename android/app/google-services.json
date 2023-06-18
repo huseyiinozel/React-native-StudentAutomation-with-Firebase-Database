@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196961838179",
+    "project_id": "student-781db",
+    "storage_bucket": "student-781db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196961838179:android:532ba67cc85aa3a024c456",
+        "android_client_info": {
+          "package_name": "com.studentautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196961838179-srvu8btnq2vg7vf84opf4gq2chdq4v6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPFtnGhaweK-G_o7fMT3zp0LcJkZM8o7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196961838179-srvu8btnq2vg7vf84opf4gq2chdq4v6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
